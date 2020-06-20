@@ -7,7 +7,9 @@ public class Class01 {
 		
 		System.out.println("my commit");
 		System.out.println("my commitimiz 2.olmus");
-		System.out.println("conflict yapmak istiyoruz");
+		System.out.println("we are against the conflicts");
+		System.out.println("we wanna make 2nd conflict");
+		
 
 	}
 
